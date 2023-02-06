@@ -1,0 +1,29 @@
+1) Git, Apech SVN
+
+2) Grafana 
+
+3) Build ans Test project.
+
+4) GIT is version control system.
+
+5) Devops is a tool which combines Dev and Ops.
+
+6) Working directory, Staged, Committed.
+
+7) It represents an independent line of devlopment.
+
+8) Git Clone
+
+9) Git Stash 
+
+10) Git add -A
+
+11) Packing and building purposed.
+
+12) Code hosting platform.
+
+13) Git Status 
+
+14) Kubernates 
+
+15) Hashicrop terraform 
